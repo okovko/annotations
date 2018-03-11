@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>menwithfootwear</folder>
+	<filename>11377445_869277209821060_479347348_n.jpg</filename>
+	<path>/Users/ok/shoe_scrape/menwithfootwear/11377445_869277209821060_479347348_n.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>730</width>
+		<height>730</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sneaker</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3</xmin>
+			<ymin>222</ymin>
+			<xmax>730</xmax>
+			<ymax>688</ymax>
+		</bndbox>
+	</object>
+</annotation>
